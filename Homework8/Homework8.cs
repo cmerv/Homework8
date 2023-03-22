@@ -1,5 +1,5 @@
 ﻿namespace Homework8;
-class Program
+class Homework8
 {
     //*** Do NOT change the code in Main ***
     public static void Main (string[] args) {
